@@ -6,7 +6,7 @@
   Hello!👋 Welcome to my Github profile. I'm a fullstack web developer with software engineer delusions. I also really like cloud tech ☁️ and many other things as seen in this profile :b
 </p>
 <p align="center">
-  <img src="https://github.com/SBoteroP/SBoteroP/blob/main/cat.gif" alt="Animated GIF">
+  <img src="https://github.com/SBoteroP/SBoteroP/blob/main/.github/workflows/cat.gif" alt="Animated GIF">
 </p>
 
 ---
