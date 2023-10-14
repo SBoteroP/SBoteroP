@@ -9,8 +9,6 @@
   <img src="https://github.com/SBoteroP/SBoteroP/blob/main/cat.gif" alt="Animated GIF">
 </p>
 
-
-
 ---
 
 ### ⚙️ Tools I use:
@@ -30,3 +28,10 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+#
+
+<details>
+ <summary><h3> ~ Who am I? </h3></summary>
+   Hey there, I'm Santiago. I got into coding right before university, but it was during my academic journey that I truly discovered the vast possibilities of crafting software.
+My tech journey has taken me across various domains (literally every single pssible area in tech lol), but at the moment focusing mainly on cloud architecture, cloud computing, front-end and specially back-end web development. I'm constantly trying out new languages and paradigms—currently, I'm diving into the realms of functional programming. Looking ahead, I'm intrigued by the idea of delving into hacking, networking, and all those challenges involved.
+If you want to connect or know more about my journey, feel free to reach out through my socials. Thanks for being a part of this adventure!
