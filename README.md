@@ -4,9 +4,10 @@
 
 <p align="center">
   Hello!👋 Welcome to my Github profile. I am Santiago, a fullstack web developer with software engineer delusions. I also really like cloud tech ☁️ and many other things as seen in this profile :b
+  <img src="https://github.com/SBoteroP/SBoteroP/blob/main/cat.gif" alt="Animated GIF">
 </p>
 
-![Animated GIF](https://github.com/SBoteroP/SBoteroP/blob/main/cat.gif)
+
 
 ---
 
