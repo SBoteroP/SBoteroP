@@ -6,7 +6,7 @@
   Hello!👋 Welcome to my Github profile. I am Santiago, a fullstack web developer with software engineer delusions. I also really like cloud tech ☁️ and many other things as seen in this profile :b
 </p>
 
-![Animated GIF](https://raw.githubusercontent.com/yourusername/yourrepository/master/path/to/your.gif)
+![Animated GIF](https://github.com/SBoteroP/SBoteroP/blob/main/cat.gif)
 
 ---
 
