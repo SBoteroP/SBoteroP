@@ -31,6 +31,12 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
+<!--
+<section>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SBoteroP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
+</section>
+-->
+
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 #
