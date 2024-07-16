@@ -3,7 +3,7 @@
 **`¡Software Developer and Cloud Enthusiast!`**
 
 <p align="center">
-  Hello!👋 Welcome to my Github profile. I'm a fullstack web developer with software engineer delusions. I also really like cloud tech ☁️ and many other things as seen in this profile :b
+  Hello!👋 Welcome to my Github profile. I'm a Systems Engineer with lots of passion for cybersecurity, cloud technologies ☁️ , web development and many other things as seen in this profile.
 </p>
 <p align="center">
   <img width="265px" src="https://github.com/SBoteroP/SBoteroP/blob/main/.github/workflows/cat.gif" alt="Animated GIF">
